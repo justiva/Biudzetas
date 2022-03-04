@@ -94,7 +94,6 @@ public class Biudzetas {
         double dVisosIslaidos = visosIslaidos;
         double balansas = dVisosPajamos - dVisosIslaidos;
         System.out.println("Balansas : " + balansas);
-
     }
 
 }
